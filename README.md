@@ -1,6 +1,6 @@
 # Lamda and api gateway
 
-## LamdaとAPI Gatewayを使ってR
+## LamdaとAPI Gatewayを使ってレスポンスに時間がかかるエンドポイントを作る
 
 
 ### (1)Lambaのダッシュボードを開きます。
