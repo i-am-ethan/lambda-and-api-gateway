@@ -1,6 +1,6 @@
-# Lamda and api gateway
+# lambda and api gateway
 
-## LamdaとAPI Gatewayを使ってレスポンスに時間がかかるエンドポイントを作る
+## lambdaとAPI Gatewayを使ってレスポンスに時間がかかるエンドポイントを作る
 開発時にタイムアウトエラーを意図的に起こしたい時などに便利です。
 
 
